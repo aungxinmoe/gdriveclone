@@ -1,0 +1,7 @@
+2021-06-17 03:14:51,597 - utils.config_loader - DEBUG - Loading config
+2021-06-17 03:14:51,599 - utils.config_loader - INFO - Found telegram_token: 1846897156:AAH-uDfLB3En5SK6UVk5QGZge4sNDEE1OU0
+2021-06-17 03:14:51,599 - utils.config_loader - INFO - Found user_ids: 1731513098
+2021-06-17 03:14:51,600 - utils.config_loader - INFO - Found group_ids: 566904506
+2021-06-17 03:14:51,600 - utils.config_loader - INFO - Found path_to_gclone: ./gclone
+2021-06-17 03:14:51,600 - utils.config_loader - INFO - Found gclone_para_override: 
+2021-06-17 03:14:51,602 - utils.config_loader - WARNING - gclone executable is not found.
